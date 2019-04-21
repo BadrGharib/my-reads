@@ -24,6 +24,7 @@ To get started developing right away:
     ├── Component
     │    ├── Book.js # used to render book info and book image.
     │    ├── BooksGrid.js # used to render collection of Books .
+    │    ├── Container.js # this is the parent component and hold data.
     │    ├── MainBooks.js # main books page.
     │    ├── SearchBar.js # used to render the search bar.
     │    ├── MainSearch.js # main search page.
